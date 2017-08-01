@@ -1,10 +1,10 @@
-# Les ligne commençant par '#' sont des commentaires.
-# Ignorer tous les fichiers nommés foo.txt
+# Les ligne commenï¿½ant par '#' sont des commentaires.
+# Ignorer tous les fichiers nommï¿½s foo.txt
 node_modules/
-app/bower_components/
+bower_components/
 # Ignorer tous les fichiers html
 *.html
-# à l'exception de foo.html qui est maintenu à la main
+# ï¿½ l'exception de foo.html qui est maintenu ï¿½ la main
 !foo.html
 # Ignorer les objets et les archives
 *.[oa]
