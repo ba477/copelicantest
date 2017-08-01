@@ -1,3 +1,6 @@
+body {
+  font-family: Montserrat; }
+
 header {
   height: 60px;
   position: absolute;
@@ -11,14 +14,19 @@ header {
       width: 280px;
       height: 51px; }
     header .container .menu {
+      top: 4px;
       position: absolute;
       right: 0;
-      width: 580px;
+      width: 623px;
       display: inline-block; }
       header .container .menu .nav {
         display: inline-block; }
         header .container .menu .nav li {
           display: inline-block; }
+          header .container .menu .nav li a {
+            color: #3e334e !important; }
+      header .container .menu .first {
+        font-weight: bold; }
 
 .middle {
   background-color: #83c5c9;
