@@ -1,0 +1,29 @@
+header {
+  height: 60px;
+  position: absolute;
+  width: 100%; }
+  header .container {
+    margin-top: 10px;
+    width: 100%;
+    position: relative; }
+    header .container .center {
+      display: inline-block;
+      width: 280px;
+      height: 51px; }
+    header .container .menu {
+      position: absolute;
+      right: 0;
+      width: 580px;
+      display: inline-block; }
+      header .container .menu .nav {
+        display: inline-block; }
+        header .container .menu .nav li {
+          display: inline-block; }
+
+.middle {
+  background-color: #83c5c9;
+  height: 650px;
+  width: 100%; }
+
+h1 {
+  font-size: 10px; }

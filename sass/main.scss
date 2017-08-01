@@ -1,0 +1,47 @@
+header{
+  height: 60px;
+  position: absolute;
+  width: 100%;
+  .container{
+    margin-top: 10px;
+    width: 100%;
+    position: relative;
+    .center {
+      display: inline-block;
+      width: 280px;
+      height: 51px;
+    }
+    .menu{
+      position: absolute;
+      right: 0;
+      width: 580px;
+      display: inline-block;
+      .nav{
+        display: inline-block;
+
+        li{
+          display: inline-block;
+        }
+      }
+      .first{
+      }
+      .second{
+        li{
+
+        }
+      }
+    }
+  }
+}
+.middle{
+  background-color: #83c5c9;
+  height: 650px;
+  width: 100%;
+
+}
+
+
+h1{
+  font-size: 10px;
+}
+
