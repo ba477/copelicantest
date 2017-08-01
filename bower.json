@@ -1,0 +1,26 @@
+{
+  "name": "copelicantest",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Bastien Chemasle"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ba477/copelicantest",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.5",
+    "angular-animate": "^1.6.5",
+    "angular-route": "^1.6.5",
+    "jquery": "^3.2.1",
+    "animate.css": "^3.5.2",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}
